@@ -1,1 +1,2 @@
 # Photo-Translator
+I recently became familiar with the tesseract ocr Java library. It allows you to recognize text in a photo. I decided to make a photo translator from the google translator script and this library. You can make a translator with any languages, I did with English and my own, Russian to check the accuracy. You can add photo processing before reading the text. Everything about how to make other languages ​​is written in the explanations for the code.
